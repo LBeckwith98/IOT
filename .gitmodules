@@ -1,0 +1,9 @@
+[submodule "AlarmClock"]
+	path = AlarmClock
+	url = ./AlarmClock/
+[submodule "pySockets"]
+	path = pySockets
+	url = ./pySockets/
+[submodule "coordinator"]
+	path = coordinator
+	url = ./coordinator/
